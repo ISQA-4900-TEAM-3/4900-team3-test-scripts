@@ -1,8 +1,8 @@
 # 4900-team3-test-scripts
 Assignment 3-Test scripts for Bookinator project
 
-Test-1=\
-Test-2=\
+Test-1=Creating a new user and logging in
+Test-2=creating a new coupon
 Test-3=\
 Test-4=\
 Test-5=\
